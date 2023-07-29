@@ -1,1 +1,2 @@
 It is created directly in GitHub
+    -> git pull         [it pull the changes from the GitHub]
